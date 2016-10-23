@@ -1,11 +1,18 @@
 .Websitetitle {
-	font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif; font-size:30px; background-color:#A7A37E; text-align: center;
+	font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+	font-size:30px;
+	background-color:#A7A37E;
+	text-align: center;
 
 }
 .slogan{
-  font-family: Impact, Charcoal, sans-serif; padding-top: 22px; padding-bottom: 0px; background-color:#EFECCA;
+  font-family: Impact, Charcoal, sans-serif;
+
+	background-color:#EFECCA;
 }
 
 .login{
-  background-color:#E6E2AF; padding-top:22px; padding-bottom: 0px; text-align: center;font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+  background-color:#E6E2AF;
+
+	text-align: center;font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
 }
