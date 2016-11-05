@@ -1,0 +1,62 @@
+.chartdiv{
+  font-size: 20px;
+  background: orange;
+}
+
+.eachchart{
+  height: 100px
+  z-index: 10;
+}
+
+#chart{
+  text-align: center;
+  width:33.2%;
+  height:75px;
+  position: fixed;
+}
+
+#activity1{
+  margin-top: 75px;
+}
+
+#navbar{
+text-align: center;
+font-size:20px;
+font-family: fantasy;
+position: fixed;
+}
+
+.col-md-2{
+  background-color: white;
+  color: #d6edd0;
+  border-bottom: 1px solid #c7dfef;
+  border-right: 1px solid #c7dfef;
+}
+
+.col-md-3{
+  font-size: 25px;
+  color: #d6edd0;
+  border-bottom: 1px solid #c7dfef;
+  border-right: 1px solid #c7dfef;
+  cursor: text;
+}
+
+.wtf{
+  font-size: 25px;
+  color: #d6edd0;
+  border-bottom: 1px solid #c7dfef;
+  border-right: 1px solid #c7dfef;
+  cursor: text;
+}
+
+.col-md-1{
+  font-size: 30px;
+  color: #d6edd0;
+  border-left: 1px solid #c7dfef;
+  border-bottom: 1px solid #c7dfef;
+  margin: auto;
+}
+
+.row{
+  position: fixed;
+}
